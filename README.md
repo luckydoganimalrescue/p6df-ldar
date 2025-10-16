@@ -28,13 +28,14 @@
 
 ```text
 .
-├── README.md
 ├── bin
 │   ├── dt.pl
 │   └── images.py
-└── init.zsh
+├── init.zsh
+├── lib
+└── README.md
 
-2 directories, 4 files
+3 directories, 4 files
 ```
 
 ## Author

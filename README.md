@@ -5,8 +5,6 @@
 ## Badges
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Mergify](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges//p6df-ldar/&style=flat)](https://mergify.io)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](<https://gitpod.io/#https://github.com//p6df-ldar>)
 
 ## Summary
 
@@ -28,13 +26,14 @@
 
 ```text
 .
-├── README.md
 ├── bin
 │   ├── dt.pl
 │   └── images.py
-└── init.zsh
+├── init.zsh
+├── lib
+└── README.md
 
-2 directories, 4 files
+3 directories, 4 files
 ```
 
 ## Author

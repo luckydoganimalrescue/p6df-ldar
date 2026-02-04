@@ -33,13 +33,12 @@ TODO: Add a short summary of this module.
 ```text
 .
 ├── bin
-│   ├── dt.pl
-│   └── images.py
+│   └── dt.pl
 ├── init.zsh
 ├── lib
 └── README.md
 
-3 directories, 4 files
+3 directories, 3 files
 ```
 
 ## Author
